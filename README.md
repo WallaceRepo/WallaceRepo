@@ -1,10 +1,4 @@
-### Hi there 👋 My name is Sophia Wallace
-===============================
-
-Software engineer, Full-stack Developer, and Front-end Developer
-------------------------------------------------------------
-
-I've been learning to code over 5 years, after switching careers, I started with HTML, CSS and JS, I found my passion in learning and applying new technologies in my work.
+## Hi, I'm Sophia 👋 I'm a Software engineer, Full-stack Developer, and Front-end Developer
 
 * 🌍  I'm based in Mabank, TX
 * 🖥️  See my portfolio at [website](http://www.web-saga)
@@ -18,7 +12,6 @@ I've been learning to code over 5 years, after switching careers, I started with
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: By 2025, there will be over 500 billion connected devices in the Internet of Things, creating a huge demand for developers specializing in IoT development.
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,7 +35,6 @@ I've been learning to code over 5 years, after switching careers, I started with
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
