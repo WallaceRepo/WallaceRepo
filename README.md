@@ -3,12 +3,8 @@
 * 🌍  I'm based in Mabank, TX
 * 🖥️  See my portfolio at [website](http://www.web-saga)
 * ✉️  You can contact me at [sophiawallacedev@gmail.com](mailto:sophiawallacedev@gmail.com)
-* 🤝  I'm open to collaborating on Building full-stack project using Supabase
-* 🔭 I’m currently working on Node Express, PostgreSQL, React Vite and Supabase Project 
+* 🔭 I’m currently working on PostgreSQL, Supabase Project 
 * 🌱 I’m currently learning serverless Backend Development
-* 🤔 I’m looking for help with Prisma ORM
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: By 2025, there will be over 500 billion connected devices in the Internet of Things, creating a huge demand for developers specializing in IoT development.
 ### Skills
