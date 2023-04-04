@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Sophia Wallace
 ===============================
 
-Software engineer, Full-stack Developer, Front-end Developer
+Software engineer, Full-stack Developer, and Front-end Developer
 ------------------------------------------------------------
 
 I've been learning to code over 5 years, after switching careers, I started with HTML, CSS and JS, I found my passion in learning and applying new technologies in my work.
