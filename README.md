@@ -4,7 +4,7 @@
 * 🖥️  See my portfolio at [website](http://www.web-saga)
 * ✉️  You can contact me at [sophiawallacedev@gmail.com](mailto:sophiawallacedev@gmail.com)
 * 🔭 I’m currently working on t3 stack with Next.js, Prisma, NextAuth.js, Tailwind CSS, and tRPC. 
-* 🌱 I’m currently learning serverless Backend Development
+* 🌱 I’m currently learning Serverless Backend Development as well as Core Java skills
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: By 2025, there will be over 500 billion connected devices in the Internet of Things, creating a huge demand for developers specializing in IoT development.
 ### Skills
