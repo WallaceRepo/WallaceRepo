@@ -1,7 +1,7 @@
 ## Hi, I'm Sophia 👋 I'm a Software engineer, Full-stack Developer, and Front-end Developer
 
 * 🌍  I'm based in Mabank, TX
-* 🖥️  See my portfolio at [website](http://www.web-saga)
+* 🖥️  See my portfolio at [website](https://www.web-saga)
 * ✉️  You can contact me at [sophiawallacedev@gmail.com](mailto:sophiawallacedev@gmail.com)
 * 🔭 I’m currently working on t3 stack with Next.js, Prisma, NextAuth.js, Tailwind CSS, and tRPC. 
 * 🌱 I’m currently learning Serverless Backend Development as well as Core Java skills
